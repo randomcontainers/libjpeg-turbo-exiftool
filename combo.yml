@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/libjpeg-turbo package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/libjpeg-turbo instead.
+name: libjpeg-turbo-exiftool
+owner: libjpeg-turbo
+with: [exiftool]
